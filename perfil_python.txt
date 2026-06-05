@@ -1,0 +1,4 @@
+Buscamos Senior Python Developer con 4+ años de experiencia.
+Requisitos: Python, FastAPI o Django, PostgreSQL, Docker, Git.
+Deseable: experiencia con LLMs, APIs REST, AWS o GCP.
+Inglés intermedio como mínimo. Perfil orientado a backend.

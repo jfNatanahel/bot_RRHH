@@ -1,0 +1,20 @@
+# Set default behavior, in case users don't have core.autocrlf set.
+* text=auto
+
+# Mark binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.gz binary
+*.bz2 binary
+*.pdf binary
+
+# Ensure python files use LF
+*.py text eol=lf
+
+# Prevent large data files from being treated as text
+data/** -text
+models/** -text
+artifacts/** -text
